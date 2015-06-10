@@ -13,7 +13,7 @@ This was a personal project, so there are two immediate goals to make this proje
 
 0) Making the names of variables more understandable
 
-1) Removing the need to hard-code credentials for the program to function
+1) Removing the need to hard-code credentials for the program to function initially
 
 
 
@@ -22,3 +22,6 @@ After that is done, the objectives are (list is incomplete and unspecific):
 0) Parse server responses more rubustly
 
 1) Create a logging system
+
+2) Remove the need to hard-code credentials at all
+
