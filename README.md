@@ -17,4 +17,5 @@ This was a personal project, so there are two immediate goals to make this proje
 After that is done, the objectives are (list is incomplete and unspecific):
 
 0) Parse server responses more rubustly
+
 1) Create a logging system
