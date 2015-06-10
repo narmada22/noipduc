@@ -1,5 +1,8 @@
 # noipduc
-A python Dynamic Update Client for use with NoIP.com's DDNS service
+A Dynamic Update Client for use with NoIP.com's DDNS service. Written in python.
+
+Note: This program is written for python 2.7, and a shebang pointing to /usr/bin/python.
+Modifications will currently be needed for use with python 3.0 or installations with python located elsewhere.  
 
 2015 06 09: 
 
